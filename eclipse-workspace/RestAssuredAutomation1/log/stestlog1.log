@@ -1,0 +1,84 @@
+2022-08-21 23:29:57,109 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-21 23:29:57,114 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-21 23:29:57,115 [main] INFO RestAssured-Loggers - enter post request
+2022-08-21 23:30:00,043 [main] INFO RestAssured-Loggers - print the response
+2022-08-21 23:30:00,137 [main] INFO RestAssured-Loggers - print the status code
+2022-08-21 23:30:00,138 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-21 23:30:00,167 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-21 23:30:00,169 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-21 23:30:00,170 [main] INFO RestAssured-Loggers - enter post request
+2022-08-21 23:30:00,643 [main] INFO RestAssured-Loggers - print the response
+2022-08-21 23:30:00,647 [main] INFO RestAssured-Loggers - print the status code
+2022-08-21 23:30:00,648 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-22 09:38:35,164 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-22 09:38:35,169 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-22 09:38:35,169 [main] INFO RestAssured-Loggers - enter post request
+2022-08-22 09:38:38,657 [main] INFO RestAssured-Loggers - print the response
+2022-08-22 09:38:38,735 [main] INFO RestAssured-Loggers - print the status code
+2022-08-22 09:38:38,736 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-22 09:38:38,761 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-22 09:38:38,762 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-22 09:38:38,762 [main] INFO RestAssured-Loggers - enter post request
+2022-08-22 09:38:39,284 [main] INFO RestAssured-Loggers - print the response
+2022-08-22 09:38:39,295 [main] INFO RestAssured-Loggers - print the status code
+2022-08-22 09:38:39,297 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-23 14:17:21,169 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-23 14:17:21,187 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-23 14:17:21,188 [main] INFO RestAssured-Loggers - enter post request
+2022-08-23 14:17:28,645 [main] INFO RestAssured-Loggers - print the response
+2022-08-23 14:17:28,849 [main] INFO RestAssured-Loggers - print the status code
+2022-08-23 14:17:28,850 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-23 14:17:28,871 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-23 14:17:28,873 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-23 14:17:28,875 [main] INFO RestAssured-Loggers - enter post request
+2022-08-23 14:17:29,430 [main] INFO RestAssured-Loggers - print the response
+2022-08-23 14:17:29,435 [main] INFO RestAssured-Loggers - print the status code
+2022-08-23 14:17:29,436 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-23 14:23:57,668 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-23 14:23:57,684 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-23 14:23:57,686 [main] INFO RestAssured-Loggers - enter post request
+2022-08-23 14:24:04,317 [main] INFO RestAssured-Loggers - print the response
+2022-08-23 14:24:04,488 [main] INFO RestAssured-Loggers - print the status code
+2022-08-23 14:24:04,490 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-23 14:24:04,556 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-23 14:24:04,557 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-23 14:24:04,559 [main] INFO RestAssured-Loggers - enter post request
+2022-08-23 14:24:05,208 [main] INFO RestAssured-Loggers - print the response
+2022-08-23 14:24:05,221 [main] INFO RestAssured-Loggers - print the status code
+2022-08-23 14:24:05,222 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-25 12:10:21,885 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-25 12:10:21,889 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-25 12:10:21,890 [main] INFO RestAssured-Loggers - enter post request
+2022-08-25 12:10:24,391 [main] INFO RestAssured-Loggers - print the response
+2022-08-25 12:10:24,462 [main] INFO RestAssured-Loggers - print the status code
+2022-08-25 12:10:24,463 [main] INFO RestAssured-Loggers - checking the status code
+2022-08-25 12:10:24,485 [main] INFO RestAssured-Loggers - getting name from excel
+2022-08-25 12:10:24,487 [main] INFO RestAssured-Loggers - getting job from excel
+2022-08-25 12:10:24,488 [main] INFO RestAssured-Loggers - enter post request
+2022-08-25 12:10:25,037 [main] INFO RestAssured-Loggers - print the response
+2022-08-25 12:10:25,040 [main] INFO RestAssured-Loggers - print the status code
+2022-08-25 12:10:25,041 [main] INFO RestAssured-Loggers - checking the status code
+2022-09-13 12:53:29,959 [main] INFO RestAssured-Loggers - getting name from excel
+2022-09-13 12:53:29,966 [main] INFO RestAssured-Loggers - getting job from excel
+2022-09-13 12:53:29,966 [main] INFO RestAssured-Loggers - enter post request
+2022-09-13 12:53:33,657 [main] INFO RestAssured-Loggers - print the response
+2022-09-13 12:53:33,741 [main] INFO RestAssured-Loggers - print the status code
+2022-09-13 12:53:33,742 [main] INFO RestAssured-Loggers - checking the status code
+2022-09-13 12:53:33,755 [main] INFO RestAssured-Loggers - getting name from excel
+2022-09-13 12:53:33,756 [main] INFO RestAssured-Loggers - getting job from excel
+2022-09-13 12:53:33,757 [main] INFO RestAssured-Loggers - enter post request
+2022-09-13 12:53:34,234 [main] INFO RestAssured-Loggers - print the response
+2022-09-13 12:53:34,238 [main] INFO RestAssured-Loggers - print the status code
+2022-09-13 12:53:34,240 [main] INFO RestAssured-Loggers - checking the status code
+2022-09-13 12:54:49,932 [main] INFO RestAssured-Loggers - getting name from excel
+2022-09-13 12:54:49,936 [main] INFO RestAssured-Loggers - getting job from excel
+2022-09-13 12:54:49,937 [main] INFO RestAssured-Loggers - enter post request
+2022-09-13 12:54:53,951 [main] INFO RestAssured-Loggers - print the response
+2022-09-13 12:54:54,034 [main] INFO RestAssured-Loggers - print the status code
+2022-09-13 12:54:54,035 [main] INFO RestAssured-Loggers - checking the status code
+2022-09-13 12:54:54,046 [main] INFO RestAssured-Loggers - getting name from excel
+2022-09-13 12:54:54,048 [main] INFO RestAssured-Loggers - getting job from excel
+2022-09-13 12:54:54,052 [main] INFO RestAssured-Loggers - enter post request
+2022-09-13 12:54:54,532 [main] INFO RestAssured-Loggers - print the response
+2022-09-13 12:54:54,537 [main] INFO RestAssured-Loggers - print the status code
+2022-09-13 12:54:54,538 [main] INFO RestAssured-Loggers - checking the status code
